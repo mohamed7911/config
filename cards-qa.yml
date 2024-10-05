@@ -1,12 +1,11 @@
 build:
   version: "2.0"
 
-
-accounts:
+cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
-    name: "QQA Doe - Developer"
-    email: "QA@eazybank.com"
+    name: "Cherryl Pankaj - QA Lead"
+    email: "cherryl@eazybank.com"
   onCallSupport:
-    - (666) 555-3212
-    - (666) 523-4213
+    - (310) 875-4367
+    - (201) 236-1267
